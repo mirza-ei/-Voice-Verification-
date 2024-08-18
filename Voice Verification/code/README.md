@@ -1,6 +1,6 @@
 
 
-# Siamese Network for Audio Similarity
+# Voice Verification with Siamese Network
 
 This project uses a Siamese network with GRU (Gated Recurrent Unit) cells to compare audio files based on their Short-Time Fourier Transform (STFT) representations. The model is designed to classify pairs of audio samples as either similar or dissimilar.
 
